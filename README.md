@@ -1,5 +1,5 @@
 Buzz Battle
-Buzz Battle is an action-packed 2D space shooter game where you pilot a spaceship and battle against various enemy bugs in an intergalactic arena. This game is built using the SDL (Simple DirectMedia Layer) library.
+Buzz Battle is an action-packed 2D space shooter game where you pilot a spaceship and battle against various enemy bugs in an intergalactic arena. This game is built in C using the SDL (Simple DirectMedia Layer) library.
 
 
 Table of Contents:
