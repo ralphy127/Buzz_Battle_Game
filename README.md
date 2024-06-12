@@ -25,19 +25,19 @@ Table of Contents:
     Run the game:
         make run
 
-2. How to Play
+2. How to Play:
     Your goal is to survive and score as many points as possible by shooting down enemy bugs.
     Avoid enemy fire and collisions to keep your spaceship intact and defend your base.
 
-3. Features:
+4. Features:
     - Engaging Gameplay: Fast-paced action with various enemy types.
     - Score Tracking: Keep track of your score and aim for the highest points.
     - Health System: Hearts represent your remaining lives; gold hearts are base health.
 
-4. Controls:
+5. Controls:
     - Arrow Keys: Move the spaceship.
     - Space Bar: Shoot.
 
-5. Credits
+6. Credits
     Game Development: Rafał Wybraniec
     Art assets and sound effects: in assets folder
