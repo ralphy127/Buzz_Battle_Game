@@ -26,8 +26,8 @@ Table of Contents:
         make run
 
 2. How to Play:
-    Your goal is to survive and score as many points as possible by shooting down enemy bugs.
-    Avoid enemy fire and collisions to keep your spaceship intact and defend your base.
+    - Your goal is to survive and score as many points as possible by shooting down enemy bugs.
+    - Avoid enemy fire and collisions to keep your spaceship intact and defend your base.
 
 4. Features:
     - Engaging Gameplay: Fast-paced action with various enemy types.
@@ -39,5 +39,5 @@ Table of Contents:
     - Space Bar: Shoot.
 
 6. Credits
-    Game Development: Rafał Wybraniec
-    Art assets and sound effects: in assets folder
+    - Game Development: Rafał Wybraniec
+    - Art assets and sound effects: in assets folder
