@@ -8,7 +8,6 @@ Table of Contents:
     3. Features
     4. Controls
     5. Credits
-    6. License
 
 1.Installation
 
@@ -39,6 +38,6 @@ Table of Contents:
     - Arrow Keys: Move the spaceship.
     - Space Bar: Shoot.
 
-5 Credits
+5. Credits
     Game Development: Rafał Wybraniec
     Art assets and sound effects: in assets folder
